@@ -1,0 +1,11 @@
+No.	Time Stamp	ms	Reason	Rating (V)	Threshold (%)	Half-cycle
+60	2022-05-25 13:28:29	969	Voltage Sag (A)	400	60	10
+61	2022-05-25 13:28:38	575	Voltage Sag (A)	400	60	10
+62	2022-05-29 04:25:18	702	Voltage Sag (C)	400	60	10
+63	2022-06-02 04:39:56	281	Voltage Sag (C)	400	60	10
+64	2022-06-02 11:51:19	478	Voltage Sag (A)	400	60	10
+65	2022-06-18 17:55:07	152	Voltage Swell (C)	400	110	0
+66	2022-06-24 05:38:22	521	Voltage Sag (A)	400	60	10
+67	2022-06-24 05:53:31	340	Voltage Sag (A/B)	400	60	10
+68	2022-06-24 05:53:36	488	Voltage Sag (A)	400	60	10
+69	2022-06-24 07:46:25	726	Voltage Sag (A)	400	60	10
